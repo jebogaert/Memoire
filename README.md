@@ -12,4 +12,4 @@ This is the git corresponding to Jeremie Bogaert's master thesis. Some of the ap
 
 5) The code used to crawl the data via commoncrawl
 
-If the participants to the human experiment allow me to share their answers here, it will also be done. 
+If the participants to the human experiment allow me to share their answers here, it will also be done in the future. 
