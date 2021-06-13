@@ -1,0 +1,36 @@
+Title : Oxford Covid-19 vaccine trial results
+
+Original :
+The Wits Vaccines and Infectious Diseases Analytics (VIDA) Research Unit, which runs the Oxford Covid-19 vaccine trial in South Africa, has announced results.
+In an analysis, submitted as a pre-print prior to peer-review publication, a two-dose regimen of the ChAdOx1 nCoV-19 vaccine provides minimal protection against mild-moderate COVID-19 infection from the B.1.351 coronavirus variant first identified in South Africa in mid-November 2020.
+Efficacy against severe COVID-19 infection from this variant was not assessed. The analyses being submitted in the pre-print show the vaccine had high efficacy against the original coronavirus non-B.1.351 variants in South Africa.
+Researchers from South Africa and the UK found that viral neutralisation by sera induced by the ChAdOx1 nCoV-19 coronavirus vaccine against the B.1.351 coronavirus variant were substantially reduced when compared with the ‘original’ strain of the coronavirus.
+These early data, which will be submitted for scientific peer-review, appear to confirm the theoretical observation that mutations in the virus seen in South Africa will allow ongoing transmission of the virus in vaccinated populations, as has been recently reported in those with prior infection.
+In this study of approximately 2,000 volunteers where the median age was 31 years old, mild disease was defined as at least one symptom of COVID-19. Protection against moderate-severe disease, hospitalisation or death could not be assessed in this study as the target population were at low risk.
+Work is already underway at the University of Oxford and in conjunction with partners to produce a 2nd generation of the vaccine which has been adapted to target variants of the coronavirus with mutations similar to B.1.351, if it should prove necessary to do so.
+Shabir Madhi, Professor of Vaccinology and Director of the Vaccines & Infectious Diseases Analytics (VIDA) Research Unit at University of the Witwatersrand, and Chief Investigator on the trial in South Africa, said:
+'Recent data from a study in South Africa sponsored by Janssen which assessed moderate to severe disease, rather than mild disease, using a similar viral vector, indicated that protection against these important disease endpoints was preserved. This could be relevant to the ChAdOx1 nCoV-19 vaccine, which has been developed using similar technology as the Janssen vaccine, and for which vaccine induced immune responses are also similar.
+‘These findings also force us to recalibrate thinking about how to approach the pandemic virus and shift the focus from the aspirational goal of herd immunity against transmission to the protection of all at risk individuals in population against severe disease.’
+Andrew Pollard, Professor of Paediatric Infection and Immunity, and Chief Investigator on the Oxford vaccine trial, said:
+‘This study confirms that the pandemic coronavirus will find ways to continue to spread in vaccinated populations, as expected, but, taken with the promising results from other studies in South Africa, such as those using a similar viral vector, vaccines may continue to ease the toll on health care systems by preventing severe disease.’
+Sarah Gilbert, Professor of Vaccinology at the University of Oxford said:
+‘Efforts are underway to develop a new generation of vaccines that will allow protection to be redirected to emerging variants as booster jabs, if it turns out that it is necessary to do so.’
+‘We are working with AstraZeneca to optimise the pipeline required for a strain change should one become necessary. This is the same issue that is faced by all of the vaccine developers, and we will continue to monitor the emergence of new variants that arise in readiness for a future strain change.’
+Note: these findings are early preliminary data, which have been submitted for peer review and will appear as a pre-print in the days ahead.
+About the Wits Vaccines & Infectious Diseases Analytics (VIDA) Research Unit
+Formerly known as the Respiratory and Meningeal Pathogens Research Unit (RMPRU) and founded in 1995, the Vaccines and Infectious Diseases Analytics (VIDA) Research Unit of the University of the Witwatersrand (Wits) is an internationally recognised, African-led research unit in the field of epidemiology of vaccine preventable diseases, and clinical development of life-saving vaccines.
+Under the guidance of Professor Shabir Madhi, a global leader in the field of paediatric infectious diseases and the Dean of the Faculty of Health Sciences at Wits University, Wits VIDA is conducting translational research on vaccine preventable diseases and training the next generation of clinician scientists. Combining clinical, microbiological and epidemiological expertise in an African setting, Wits VIDA’s cutting-edge scientific research informs local and global policy recommendations on the use of next-generation and novel vaccines today. In addition to various other studies on COVID-19, Wits VIDA championed and led the first two COVID-19 vaccine trials in Africa in 2020, for the Oxford and Novavax vaccine candidates.
+
+Generated :
+Oxford University's experimental vaccine against large-cell lung cancer was successfully studied and produced, the BBC reports.
+Treatment with the Oxford Obw oncology drug rose to 50 per cent, compared with 20 per cent of the experimental zinc-plagued chemotherapy vaccine.
+Oxford's pharmacology department said safety was not compromised in the trial, which was carried out at the University of British Columbia in the UK and Sweden respectively.
+"This preliminary clinical trial shows that under the management of university scientists the drug Cortorrea can be administered effectively to prevent disease in a clinic," the university said in a statement.
+If more research is conducted with other factors, such as better vaccine testing, the possibility that the drug can become effective in a broader population may become more remote.
+The immunotherapy drug, a proprietary form of immunotherapy, is undergoing huge trials.
+In October 2013, the University of British Columbia in British Columbia clinched a $3.1 billion deal to buy a majority stake in the world's largest and most promising immunotherapy company, AcuDoc.
+AcuDoc aims to develop new adjuvant immunotherapy drugs targeting immune cells in patients with small numbers of small tumors.
+Oxford has invested $16 million of its own money into the drug pipeline.
+"Oxford's position is highly aligned with the educational research and advanced clinical development programs of the clinical trial that make oral immunotherapy so possible," said Kavita Mehta, chief executive of the Institute of Advanced Medical Education, part of the British Columbia School of Medicine.
+The Oxford Obw trial was conducted at the University of British Columbia in Great Britain and Sweden.
+AcuDoc researchers developed the drug by injecting an injectable strain of the Cortorrea gene into tissue.

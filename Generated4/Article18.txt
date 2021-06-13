@@ -1,0 +1,23 @@
+Title : Artificial intelligence model detects asymptomatic Covid-19 infections through cellphone-recorded coughs
+
+Original :
+Asymptomatic people who are infected with Covid-19 exhibit, by definition, no discernible physical symptoms of the disease. They are thus less likely to seek out testing for the virus, and could unknowingly spread the infection to others.
+But it seems those who are asymptomatic may not be entirely free of changes wrought by the virus. MIT researchers have now found that people who are asymptomatic may differ from healthy individuals in the way that they cough. These differences are not decipherable to the human ear. But it turns out that they can be picked up by artificial intelligence.
+In a paper published recently in the IEEE Journal of Engineering in Medicine and Biology, the team reports on an AI model that distinguishes asymptomatic people from healthy individuals through forced-cough recordings, which people voluntarily submitted through web browsers and devices such as cellphones and laptops.
+The researchers trained the model on tens of thousands of samples of coughs, as well as spoken words. When they fed the model new cough recordings, it accurately identified 98.5 percent of coughs from people who were confirmed to have Covid-19, including 100 percent of coughs from asymptomatics — who reported they did not have symptoms but had tested positive for the virus.
+The team is working on incorporating the model into a user-friendly app, which if FDA-approved and adopted on a large scale could potentially be a free, convenient, noninvasive prescreening tool to identify people who are likely to be asymptomatic for Covid-19. A user could log in daily, cough into their phone, and instantly get information on whether they might be infected and therefore should confirm with a formal test.
+“The effective implementation of this group diagnostic tool could diminish the spread of the pandemic if everyone uses it before going to a classroom, a factory, or a restaurant,” says co-author Brian Subirana, a research scientist in MIT’s Auto-ID Laboratory.
+Subirana’s co-authors are Jordi Laguarta and Ferran Hueto, of MIT’s Auto-ID Laboratory.
+
+Generated :
+Share
+The device, called AxiBlue, is no your ordinary health app, but something is getting smart.
+One anonymous patient of the Centers for Disease Control and Prevention reports that the device has developed a process that detects asymptomatic viral infections through a “showalter” cellular technique.
+For someone who has been infected with both viruses and bacteria in their local health centers, that means there is a potential complication. Add to that the possibility that they could find out what may have caused the infection, and potentially require surgical help to remove the sick and possible future infections.
+Applying the AxiBlue technology has been extremely successful in helping infections from an infected medical center and giving doctors new ways to treat patients, according to the American Medical Association. If you have a bacterial infection, or one with flu-like symptoms like fever, or a rash, you can practice infection management with AxiBlue.
+The men’s and women’s arm of the pharmaceutical company Valeant Pharmaceuticals have decided to test the system on one machine, called AxiBlue, in partnership with Evidence.com, and 50 centers around the country.
+The study took place in 39 clinical areas covering the entire country, so the participants were equipped with devices that let doctors detect Ebola, MSF, and other infectious diseases and virus-infected conditions. The data were processed for display at more than 400 emergency departments.
+About 8,000 people are diagnosed with hepatitis B per year, but only about 3,800 of them are infected with chronic hepatitis B, the CDC said. Although confirmed, it’s unclear if it has a direct correlation to any of the more than 20 other viral infections in the country.
+According to the company, some men have had successful treatment in the past, and some were upgraded to curing cancer. The company also knows that people who are infected should have regular surgery and antibiotics.
+Tests have shown that piggeries, which are common in low-income, sickle cell anemia and chronic kidney disease, can reverse the effects of sores.
+But those still catching infections can still die from HIV or hepatitis B. AxiBlue has gained popularity in recent years as the body adapts to new applications, and none of the infections noticed so far in response were from those infections, the company reported.
