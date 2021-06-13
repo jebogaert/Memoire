@@ -1,0 +1,32 @@
+Title : Christmas 2004: Cassini Delivers a Very Special Gift
+
+Original :
+December 24, 2004, was no silent night in the Space Flight Operations Facility at NASA's Jet Propulsion Laboratory. Members of the Cassini team, clad in Santa hats and nibbling red and green peanut M&Ms, gathered in the control room for a mission-critical task -- releasing the European Huygens probe from its berth and sending it toward an historic rendezvous with Saturn's giant moon, Titan.
+"The mood was incredibly festive," said Julie Webster, Cassini's chief engineer.
+But, as with any critical spacecraft maneuver, there was tension in the room.
+"The mood was tempered with a cautious optimism as we waited for one of the most crucial events of the mission; a successful probe release," said Earl Maize, Cassini's current program manager and a deputy project manager at the time.
+After a busy month of preparation, mission planners called a "go" for release of the probe from its berth on the Cassini orbiter on Dec. 24, 2004 at 6 p.m. PST (2 a.m. UTC on December 25). The maneuver put Huygens on course for a 20-day cruise to Titan and a Jan. 14, 2005 touchdown on the moon's then mysterious surface -- the most distant landing in our solar system to date.
+"With a good release, Huygens would be perfectly targeted for Titan entry. A bad release would compromise or potentially cost us the mission," Maize said.
+After the release, the team took a moment for themselves.
+"We at JPL enjoyed a meal together before resuming the holidays with our families," Maize said.
+"I still have the printout of the telemetry that showed probe release signed by the engineering team," Webster said.
+But there was little time to rest on their laurels.
+With Huygens coasting toward Titan, the team shifted to an even bigger task -- capturing and relaying the precious data Huygens was to send back during its long descent through Titan's mysterious, hazy atmosphere. A moment they had been working toward for nearly two decades was now just less than three weeks ahead.
+
+Generated :
+DiscDiscDiscDisc1
+The Cassini’s Optical Cassini probe is our new image by Mark Cameron. His assignment here is to observe the orbital debris collisions and breakdown, the large forces around the path of debris while it is streaming out of the mosaic (see this Slide).
+Cassini Observing Challenges
+This single image was built by Mark Cameron and Carl Bass of the Earth Art division at NASA’s Jet Propulsion Laboratory in Pasadena, Calif. Cassini’s goal here is to investigate post-launch observations that may indicate a pattern where different structures on the orbit of the spacecraft may be forming during the collision.
+Other location data of the Cassini’s mosaic suggests the ships have run into different satellites, and may have been sent under different circumstances to deal with different ejections and breakaways along the path of the collision. Overall, Cassini’s behavior may depend on the path of the collision in the days and weeks before its release, or the individual flybys where the debris clogged the stormy cloud-strengthened surface air before sending it away.
+One feature that suggests the best resolution could be a view from the station where the Cassini probe is situated on its orbit (see this Slide). Cassini’s position just before the collision has not been widely interpreted by observatories and observers, but there is a near universal consensus about the importance of looking up before the collision, and the way to visualize it using the structure most closely aligned with the orbit of the probe.
+Answers to Key Questions
+Understanding how Cassini reached the low-orbit boundary at 13,000 miles, and how the craft underwent orientation changes in preparation for the post-event collisions is like discovering some old friend and having family ties to where we spend our holidays.
+This image was created in collaboration with post-launch observer Mark Cameron and Carl Bass of the Earth Art division at NASA’s Jet Propulsion Laboratory in Pasadena, Calif. Cassini’s goal here is to investigate post-launch observations that may indicate a pattern where different structures on the orbit of the spacecraft may be forming during the collision.
+For later analysis of Cassini’s arrival during this week’s final flyby of the craft, Caltech Lunar and Planetary Laboratory in Houston, Calif., Messier Electronics achieved the non-destructive location of the debris where Cassini was approaching the path of the collision, in which a second transparent main ocean atmosphere was formed.
+Under SCADA
+The upper atmosphere is substantially larger than the core part of the orbit, so that Cassini’s orbit is at a higher angle relative to the core components of the spacecraft, although Jupiter’s moon Europa is also at a higher angle relative to the core parts of the spacecraft, suggesting that planetary debris moving closer to its core might have disrupted the path of the collision as well.
+After the smaller cell circles and arcs appear to give way, Cassini may be placed between two favorable orbit parameters. This shape corresponds to the Orbiter’s closest orbital reference, the Triesteentricentricolar orbit, which was widely misinterpreted by observatories when it arrived at the orbit.
+In addition, the protective surface area does not accurately reflect the orbital debris, so the Cassini spacecraft was at least about a half-degree farther from the surface than expected. Just after landing, the circle also indicates a sharp aberration of sunlight on the surface of the spacecraft.
+Previous NASA observations of Cassini’s interactions with other instruments on the spacecraft depicted the circle in its photo cover and the impact plates on the module (see the photo here, pictured). The Mercury capsule arrived at a spin rate of 10,100 pounds (6,400 kilograms) which was nearly twice as high as the spacecraft itself. Once the end of its “legendary” flyby, the spacecraft was a safer, less exposed spacecraft than any previously flown by European-made spacecraft and modern spacecraft.
+Cameron and Bass have already released a 360-degree image of the spacecraft. Overall, they know exactly where Cassini ended and its impact point. Each flyby is different and several have different approaches to estimating how the flyby occurred. See the image below, complete with name and date, and the image in the slide gallery for final predictions in the Cassini gallery.
