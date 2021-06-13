@@ -1,0 +1,58 @@
+Title : Samsung Galaxy NX: Android Goes Mirrorless for Way Too Much Money [REVIEW]
+
+Original :
+Samsung Galaxy NX Review
+Android was originally developed as a smartphone operating system. Since its humble version 1.5 "Cupcake" beginnings, Android has been modified for use in tablets, TV set-top boxes, micro-gaming consoles and more. In the last year, Samsung's been busy adapting Android for a different purpose: cameras.
+For all the megapixels and low-light prowess of today's cameras, very few of them have Internet connectivity that rival the ease of use found on modern smartphones and tablets. The problem, it seems, is the user interface.
+The Galaxy NX, as its name suggests, is essentially one of Samsung's Android-powered Galaxy smartphones grafted onto an interchangeable-lens camera body. If last year's Galaxy Camera was Samsung's freshman debut, then the Galaxy NX can be considered its sophomore release.
+Almost All Screen
+The very first thing you'll notice on the Galaxy NX is its gigantic screen. Forget the "large 3.0-inch screen" you've seen on every other camera, because none of those come remotely close to the sheer size of the 4.8-inch touchscreen on this Samsung camera.
+To put it bluntly: the 1,280 x 720 resolution LCD absolutely dominates the camera. The large screen does come at a cost. There is just no room for directional pads, camera setting switches or all of the other buttons you would expect to find on a mirrorless camera. Also, the display doesn't flip out.
+The capacitive touchscreen is as responsive as any Galaxy smartphone's, but quickly making adjustments to things such as ISO and exposure by tapping at tiny onscreen sliders and buttons is definitely a slower process than pressing physical buttons.
+Worse, the Galaxy NX barely has enough room for your right thumb to firmly grip.
+Shoots Like a Point-and-Shoot
+Samsung, like Sony, might not have quite the historical legacy of other camera makers, but it sure does know how to pack a spec sheet. The Galaxy NX has a 20.3-megapixel APS-C sensor, a 1.6GHz Pega-Q Quad-core processor, 16GB of internal storage (expandable via microSD card), a DRMe IV Signal Image Processor, ISO 100-25600, 8 frames per second continuous shooting, 30 smart shooting modes, a built-in flash and runs Android 4.2.2 Jelly Bean (with the TouchWiz UI).
+But, as many of us know, bullet points on a list don't mean much if the picture-taking experience is shoddy. While the Galaxy NX isn't the slowest, it isn't exactly a fast mirrorless camera either. For starters, booting up the camera from a completely powered off (not standby) mode takes over 20 seconds (this is Android we're loading up here). The camera's autofocus can be considered speedy; however, it fails to operate quickly when you're zoomed in with the 18-55mm lens and when you're not using the touchscreen to select a focus point.
+Although the large touchscreen is clear as day, the same can't be said for the 0.46-inch electronic viewfinder (EVF), which has a terribly low 800 x 600 resolution and exhibits some noticeable lag when it detects your eye.
+Throughout my two-week review period, I found myself using the Galaxy NX more like a point-and-shoot and less like a mirrorless camera with a built-in EVF. The lack of any real hardware buttons for changing camera settings, other than a wheel up top, also contributed to the Galaxy NX being held and used as a point-and-shoot.
+The 4,360 milliamp-hour (mAh) battery is excellent and helps the camera last all day long, even with 4G LTE turned on. You should be able to get a solid 10-11 hours of on\/off usage with the camera on standby when not in use.
+Better Pictures for Sharing
+By now, you may be asking yourself why you would ever need a camera with Android when you can buy a high-end Android smartphone with a beefed-up camera such as the Galaxy S4 Zoom. That's a valid point, but the clear differentiator between the Galaxy NX and a smartphone such as the Galaxy S4 Zoom is going to be image quality.
+It may be the case that most smartphones these days take "good enough" pictures for sharing to Facebook and Instagram, but none of them take 20.3-megapixel pictures that are comparable to ones from a mirrorless or entry-level DSLR with a decent lens.
+The Galaxy NX produces clear pictures with accurate colors, good dynamic range and, in most scenarios, very little noise (at up to ISO 1600). Even low-light shots look good if you've got a steady grip or use a tripod. Taking panoramas is also really simple: you pan from left to right or right to left and the Galaxy NX automatically stitches together an elongated picture.
+Samsung Galaxy NX Sample Images
+To my eye, the Galaxy NX's pictures aren't nearly as crisp as other mirrorless cameras, such as the Olympus OM-D E-M1 or Sony NEX-7, but they're sharper than the ones from popular smartphones such as the Galaxy S4 or iPhone 5S.
+If you can't see the difference between an iPhone picture and the Galaxy NX's higher resolution shots, you may want to get your eyes checked. It's definitely noticeable.
+4G LTE and App-Charged
+Aside from its use of Android, the Galaxy NX also has built-in 3G\/4G LTE. (Don't worry, the Galaxy NX is an "unlocked" device.) All you need to do is pop in a micro SIM card and you're ready to start uploading pictures to Facebook, Instagram or wherever you share your cat pics to — on the spot, wherever you are. No more waiting to upload them over Wi-Fi or transferring them to a computer and then sharing them online. Today's kids have it real easy.
+Other than 4G LTE, the Galaxy NX has access to hundreds of good photo editing apps in the Google Play store. I can take a picture at the full 20.3-megapixel resolution, open up Snapseed, make corrections or add effects instantly, and then immediately share them with friends and family.
+Having Internet access is also great for storage. Should the Galaxy NX's 16GB of internal storage and additional micro SD card not be enough for all of your photographic needs, you can always tap into the cloud for more room.
+Heck, Samsung even makes it easy for owners by including 50GB of free Dropbox storage for two years with every Galaxy NX. As a person who uses Dropbox like crazy, I appreciate how the Galaxy NX can automatically upload all of my photos and videos to the cloud for backup over Wi-Fi or 4G LTE.
+And in case your were wondering, yes, this camera allows you to play games, watch videos, browse the Internet and do just about everything else you can do on an Android smartphone, except make calls. For kicks, I played Temple Run and Angry Birds on the New York City subway just to see the reactions, and let's just say a lot of riders simply stared at me, shaking their heads at my silliness.
+Surprise Voice Commands
+One cool little feature I found on the Galaxy NX was the inclusion of voice commands. It doesn't understand natural language, like Siri or Google Now, but the list of voice commands are easy to remember and useful (when they work). And, knowing the limitations of voice recognition, I didn't expect much from the Galaxy NX.
+When the feature is turned on, you can say "smile," "cheese," "capture" or "shoot" to take a picture. All of these worked. Similarly, recording a video is as simple as saying "record video." We're not sure why, but you can't say "stop recording" to stop the video. Saying "beauty face" will take a portrait and transform the person's face into one with flawless skin, and saying "timer" and "gallery" will initiate a 10-second timer and bring up the photo gallery, respectively.
+At close range, most of the voice commands work, but step back to around five feet and the camera has a hard time picking up your voice.
+Way Too Expensive
+As far as convergence goes, the Galaxy NX feels like the natural path for cameras to take. Android not only allows the camera to have access to a wide array of apps, but it also lets you share your media wirelessly over cellular networks. In today's age of social connectivity, that kind of feature is really convenient and indispensable.
+The only real kicker is the Galaxy NX's crazy price: $1,600 for the body-only and $1,700 for the body and a 18-55mm lens. That's a big chunk of money for Android and wireless connectivity when you can purchase other mirrorless cameras for much less, tether one to a smartphone and get pretty much the same features (albeit with a little more work).
+The Lowdown
+What's Good:
+Beautiful 4.8-inch HD touchscreen
+Convenient 4G LTE Internet connectivity
+Superb battery life
+What's Bad:
+Disappointing low-res electronic viewfinder
+Super slow boot-up
+Next to no physical buttons
+Bottom Line: Samsung's Galaxy NX is an ambitious camera that attempts to bring cameras into the modern gadget world with a large touchscreen and picture uploads over 3G\/4G LTE, but its incredibly high price will scare off most potential buyers.
+
+Generated :
+I just got home from a long family vacation and I thought it was a fun adventure but the family affair was ended short-sighted. The world revolves around the Android operating system and many Samsung fans are looking for a silver screen device. I am a lifelong Android fan, but rarely gets an opportunity to simply watch mobile phones around the living room.
+I will give you an overview of the new Samsung Galaxy NX, or the dual-screen model as we call it. The company has already unveiled the NX and the device is officially called the S III: Volume 2. We don’t know for sure what changes Samsung will make to the power ratio when it introduces the new model, but we do know that the specs are quite impressive in that they are both quite cheap and feature-rich.
+It also isn’t too long to tell you if and when the new NX will have a curved, or a curved display at CES 2014, but I guess you wouldn’t want to buy one of those. If you have that sort of collection of options then you should consider one of the two companies you will be using with the Samsung Galaxy NX and the Galaxy S III. Both companies are reported to be purchasing lots of Samsung products this year and this isn’t going to be the last time you will have Samsung products in your hands.
+[vb_gallery id=96198]
+First up is the Galaxy S III: Volume 2 model, and that model will be available in January 2014. The S III, according to comments by Samsung, includes a user-friendly style and an improved camera that looks and feels more like a video camera. The Samsung Galaxy S III is also reported to have a mechanical QWERTY keyboard, an upgraded processor and it will be available for a reasonable price of $180.
+Earlier this month we reported that we heard that a Samsung Galaxy NX camera might be coming to the market with a compact form factor. Now we are at the beginning of a big announcement that will be coming to the holiday shopping season when LG announced the LG Optimus One. LG has gone to lengths to have this device on which it intends to showcase its two biggest models: the LG Optimus One and the LG Optimus S II.
+What’s more is that a November 4th release date has been listed for the LG Galaxy NX, probably a date that LG would want to put on hold until a release date has been made official.
+All in all, the Samsung Galaxy NX and LG Optimus One should offer a stiff battle for this year’s budget Android powerhouse. They make use of the extra bit of space they have in their mobile devices, but now the Samsung Galaxy NX and LG Optimus One will also offer huge price cuts thanks to a first look price cut of $180.

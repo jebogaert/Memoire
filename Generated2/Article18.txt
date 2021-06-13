@@ -1,0 +1,20 @@
+Title : Microsoft’s Azure faces new challenges in streaming Rio Olympics coverage
+
+Original :
+This year’s Summer Olympics in Rio de Janeiro, which run August 5-21, won’t be the first time NBC has used Microsoft’s Azure cloud to compile, process and stream its live and on-demand audiovisual coverage. Azure Media Services, a Platform as a Service (PaaS) three years old, did the same thing for several Super Bowls, and it filled that role for NBC during the Winter Olympics in Sochi two years ago.
+But there are some big differences this time around, said Sudheer Sirivara, general manager of Azure Media Services, in an interview with GeekWire.
+Rio is only one time zone later than the Eastern U.S., so the amount of live coverage consumed will be far greater, he said. The summer Olympics have three times as many events as the Winter Games. A record 4,500 hours of 1080p content will be streamed, with more than 100 “channels” (individual events) — double the number from Sochi, at double the resolution (Sochi was telecast in 720p).
+More than one million people are expected to watch live at the same time. And there’s a far larger number of devices on which people will be watching, including smartphones, laptops, tablets, desktops, of course TVs, and streaming sticks like Roku and the Amazon Fire Stick.
+“I have a healthy nervousness,” Sirivara confessed. “When you have that kind of audience watching a premiere event, you cannot afford to have any slip-ups. But we’ve done this in the past, and we’re quite confident, as well.”
+It’s a high-profile undertaking for Azure at a time when Microsoft is trying to bring aboard more corporate customers for its cloud computing platform and close the gap against market leader Amazon Web Services.
+Data will move from Rio to Stamford, Conn., where the NBC Sports Group is based. Azure’s East Coast and West Coast data centers, in Virginia and California, respectively, will both be used, for the sake of redundancy — either center can re-route to the other if necessary. Using two centers also allows caching the data closest to viewers. More than 20,000 cores and “multiple petabytes” of storage will be involved. Though Sirivara couldn’t say how many personnel will be involved in the effort, he said everyone on staff will be on call in case of an emergency.
+Microsoft will be working with Adobe’s TV delivery and monetization services, which it said will help programmers deliver online video and ads.
+[Related: How Microsoft is turning Bing into a Summer Olympics TV guide and information hub]
+
+Generated :
+Following leaks that Snowden’s NSA was spying on Canadian law enforcement, Microsoft’s Azure cloud infrastructure is currently facing new challenges from Internet service providers who have refused to provide exactly what content the Olympic Games are streaming.
+According to The Verge, China’s Internet Civil Society Network and China Mobile are among the companies that refuse to cooperate with, or support, the country’s Olympic oversight initiative.
+CCNet reports that according to CNET, these Internet service providers, along with other users, are about to take legal action against Microsoft to stop the Olympics from being streamed by Internet service providers in Rio.
+“Google did not invite Intel for Russia’s 2014 Sochi Olympics. Microsoft is refusing to recognize its Facebook footprint on behalf of the IOC until Amazon, YouTube, Alibaba and other Internet service providers provide specific content specifically written specifically for the Games,” reads a statement from WebWiki, which has built up a list of 100 Internet service providers.
+Microsoft said that its Antivirus software and security systems are capable of delivering cyber attacks with specific cyber intelligence tools and providing support for popular website offering.
+This is the latest incident in a long-running feud between the two giants following the arrival of a pilot project from Google which provides web application users with an enhanced browser.

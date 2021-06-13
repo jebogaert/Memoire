@@ -1,0 +1,15 @@
+Title : Here’s how TV ad spending translated into in-store traffic for retailers on Black Friday
+ 
+Original : 
+There’s no doubt retailers spent quite a bit of advertising money last week leading up to Thanksgiving weekend. It is tough, however, to measure the return on those expenditures.
+But a unique study provides some answers thanks to Seattle-based location analytics startup Placed and Kantar Media Ad Intelligence. Using Placed’s physical location data and Kantar’s ad-spending information, the two teamed up for the first time to analyze return on TV ad spend — or, as they call it, “Cost Per Visitor Share.”
+By measuring more than 100 million locations a day across more than 100,000 U.S. users who have opted-in to share their location, Placed is able to measure around 1,000 businesses per day across 130 categories. That information is combined with extensive metadata and proprietary modeling, then normalized to represent the U.S. population.
+Based on that data, Placed pinpointed the top 50 retail destinations for Thanksgiving weekend. Combined with Kantar’s advertising data for the month of November, and here’s what came out:
+As you can see, Walmart spent the most on TV advertising by a large margin and it worked extremely well for them, as the giant retailer had the lowest “visitor acquisition cost.”
+Target finished second, spending $28 million on TV ads while garnering 11.9 percent of the visitors last weekend. Sears, meanwhile, spent $26 million but only had 1.9 percent of the shoppers tracked by Placed.
+As far as electronic retailers, Best Buy spent a good chunk on TV advertising at $25 million, and saw a fairly good return. RadioShack didn’t fare as well, accumulating just 0.8 percent share of visitors with $9 million spent on TV ads.
+See the full report here.
+
+Generated : 
+Microsoft surprised you this week with the first significant online direct mail, media buy and gift-buying device to hit stores on Black Friday — a program that merchants need to continue to expand overseas in an effort to compete with Amazon.
+Here’s how TV television advertising translated into in-store traffic for retailers on the day after the holiday shopping frenzy started:

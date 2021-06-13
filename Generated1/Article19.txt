@@ -1,0 +1,39 @@
+Title : Facebook officially launches ‘Marketplace,’ taking aim at Craigslist and OfferUp
+ 
+Original : 
+Facebook officially launched its Marketplace on Monday, once again attempting to carve out a piece of peer-to-peer local sales.
+The feature, which Facebook has been testing for the past year, allows users to post items they want to sell and casually shop goods for sale in their communities. The tool integrates with Facebook Messenger so users can negotiate and arrange logistics.
+Facebook is not facilitating in-app payments at this time but likely will head in that direction, based on the company’s efforts to turn Messenger into a friend-to-friend payment app.
+Although Messenger has been a key focus for Facebook in recent years, Marketplace is replacing the chat tool in the Facebook iOS app’s navigation bar. That switch gives some insight into how much of a priority Marketplace is for Facebook.
+In Marketplace, users can search specific items or browse items for sale by category. They can also adjust the distance they’re willing to travel for an item, using a built-in location tool.
+If that sounds familiar, it’s because Marketplace is nearly identical to Bellevue, Wash.-based OfferUp.
+OfferUp has seen tremendous success by challenging Craigslist with its user-friendly, mobile-first marketplace for buying and selling within communities. This David and Goliath story may have a twist ending, with Facebook entering the ring as another giant to fight.
+OfferUp’s tremendous growth is the reason Facebook has been trying to tap the local buying and selling space for years. In 2007, the company rolled out its first iteration of “Marketplace” but weak traction led Facebook to shut the feature down in 2014.
+Facebook does have a key advantage over Craigslist and (to a lesser extent) OfferUp. There’s a heightened sense of security and accountability when arranging a sale via the Facebook portal because user names and basic information are associated with the transaction.
+Scams and safety concerns have always been a problem for Craigslist. OfferUp already uses Facebook authentication to build a sense of trust. Now, it seems, Facebook wants to leverage that trust for its own gains.
+Facebook Marketplace is rolling out in the U.S., UK, Australia, and New Zealand on iOS and Android over the next few days. It will be available on desktop and in other countries later this year.
+
+Generated : 
+The Facebook and Yahoo on Friday confirmed that they’ve partnered for an experiment to test a new marketplace through which job listings can be accepted.
+The go-to example of a user’s competitive relationship, listing a possible deal, can be found here.
+A previously exclusive Craigslist listing has recently made it to Facebook and includes “offers from suitors” and “for a price.” The other Google listings and such, like this one, are at works here.
+Advertising Facebook
+More from VentureBeat:
+Publishers generally aren’t permitted to use ad networks to bid on listings, but the social network appears to be getting on board with the challenge.
+“Our top search results already show ads for higher price,” said Victor Bronfman, the head of digital platform group for Facebook. “For consumer research purposes, I also suggest people review other ads that have more airtime. It’s crazy how quickly we find ads we haven’t seen before, and it’s a very, very good way to get new folks on our platform.”
+Who needs it?
+The Facebook announcement of an offsite marketplace for job listings doesn’t come as a complete surprise. Recently, Zynga made it clear it did not intend to replicate Craigslist. For example, if you know someone who thinks a user is a right-winger and likes the Pokémon Go game, you could easily find a better price on the plant sale.
+It’s no surprise Facebook and Yahoo haven’t added offsite listings, but Facebook is trying to put its money where its mouth is: “a marketplace that gives job seekers an easy-to-spot way to find a job.”
+Ad models are in play
+Facebook isn’t creating a marketplace for individual users, though, so advertisers can use it in an even more lucrative way. Rather than targeting the majority of users in a niche, Facebook could also target a few users using a unique user demographic. If users don’t use Craigslist to get job listings, an ad selling a new job could get them on Facebook.
+On Twitter, they’ve already tried to give their social network some perspective, though. After you “tweet” a job listing in your feed, your base on the right can see what a job you’re applying for.
+It’s perhaps these retweets that make Facebook interesting, not the user clicks on a job listing, Twitter CEO Jack Dorsey told TV journalist Jesse Angelo. “I am absolutely convinced that an automated, third-party platform like Twitter is going to ultimately try to really disrupt those types of interactions,” Dorsey said.
+Slightly more radical.
+Advertisers will still need to purchase a listing, though. There are marketplaces to offer job listings, which are relatively unknown to most consumers.
+The move opens up a totally new market for on-the-fly listing bargains, and advertisers are reluctant to start massaging the experience in yet another confusing.
+While the public testing site already functions, its launch may draw more debate on whether Google was specifically singled out. Yahoo previously launched an ad platform based on ads purchased from other companies. The plan was to look for ways to store all of those ads without costing advertisers a penny in advertising, but sales of ads aren’t part of that system.
+Live community
+Advertisers aren’t leaving Facebook and Yahoo, and they’ll ultimately all be connected to Facebook. The two companies are partnering on this very same initiative — a product formerly known as the Live community.
+Facebook will be able to switch members of the existing Live community on to Facebook. That should offer users a lot more options for creating and using their own posts, which means shorter retweets and lower visibility on the site.
+For the enterprise, it may allow Facebook to make money off of user data and decide how much a user’s trade-in value will be based on the performance of their trades.
+To read more, head over to VentureBeat.

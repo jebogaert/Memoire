@@ -1,0 +1,41 @@
+Title : Facebook: It's 'not true' that we withheld News Feed update to battle fake news
+ 
+Original : 
+Facebook developed a tool that would battle against fake news and hoaxes in the News Feed but never released it, a bombshell report from Gizmodo alleged Monday.
+That tool, which would been an update to News Feed that "down-ranked" misinformation, reportedly went unreleased over fears that Facebook would appear partisan. At the time, the social network was reeling from a report that human editors could act on their political biases when selecting stories for Facebook's "Trending" feature.
+Scrambling to address the report, a Facebook spokesperson told Mashable that the claim is completely false.
+"The article’s allegation is not true," the spokesperson said in an email, which then reiterated a statement already published elsewhere.
+"We did not build and withhold any News Feed changes based on their potential impact on any one political party," it said. "We always work to make News Feed more meaningful and informative, and that includes examining the quality and accuracy of items shared, such as clickbait, spam and hoaxes."
+True or not, the latest salvo hits as the social network is battling critics who claim that it allowed the spread of fake news during the presidential campaign season, potentially influencing the election.
+In an unusually defensive status update published late Saturday, Facebook CEO Mark Zuckerberg downplayed his company's impact on voters' opinions.
+"Of all the content on Facebook, more than 99% of what people see is authentic. Only a very small amount is fake news and hoaxes. The hoaxes that do exist are not limited to one partisan view, or even to politics," he wrote. "Overall, this makes it extremely unlikely hoaxes changed the outcome of this election in one direction or the other."
+It's completely unclear where that "more than 99%" figure comes from, and while it's true that Facebook hoaxes extend beyond the realm of politics, a BuzzFeed News investigation from earlier this year indicated that fake news supporting Donald Trump was a particularly viral — and profitable — genre.
+Mashable recently used CrowdTangle, a tool Facebook bought on Friday, to determine that just one bogus news story reached a potential audience of more than 2 million people once it hit the social network. And there's plenty more where that came from.
+Bias is off brand
+Mark Zuckerberg wants Facebook to "connect the world," and that can't happen if people feel divided by the social network — or if they interpret the company's decisions as supporting one political view over another.
+That makes battling the flow of fake news particularly challenging, as much of it preys on hyper-polarized audiences, reaping huge share numbers and clicks from Trump supporters. If Facebook made a change to its News Feed now, right-wing supporters might claim that the social network is kowtowing to the left.
+So there's a tightrope walk: Facebook makes incremental changes to its News Feed, as it promised to following reports of fake news last week, but its language is very carefully chosen to suggest that users have urged for a change — not leadership.
+For example, Adam Mosseri, the vice president of product management, said last week that the company would take a more proactive approach to hoaxes, but only because of user feedback.
+"We value authentic communication, and hear consistently from those who use Facebook that they prefer not to see misinformation," Mosseri said.
+Read that over again: Facebook isn't saying that any information distributed on its platform is a problem — but its users are, so the company will consider a change.
+Facebook has followed this pattern for years, as Mashable explained last week, always attributing shifts in the News Feed to user feedback. "We’ve heard from people that they want to see fewer stories that are hoaxes, or misleading news," the company said in January 2015; "[we will] continue to weed out stories that people frequently tell us are spammy and that they don’t want to see," it said in August 2014; et cetera.
+Facebook is far from the only tech company with these problems — Google has also spread its share of misinformation — but it nonetheless occupies a unique position in modern media. It has well over a billion users, for starters, and its blend of social interactions with media distribution is unprecedented: Never before has there been a product like this, and it becomes ever more clear that it's still a work in progress.
+
+Generated : 
+Facebook Inc just took a big step towards building an opt-in public reporting system which will fight fake news, which is the latest internet sensation to up the ante.
+At the same time, Facebook launched a news feed to counter what it saw as demonetization that is spreading both positive and negative perception of the social media platform.
+Social justice and social injustice all come together to create a message that one can express and challenge the status quo. The platform takes that frustration to a whole new level with a system which tries to help inform and protest.
+See also: Facebook's 'dark' social media ads played a big role in disinformation scandal
+But under the next upgrade, which has been previewed publicly at the right moment and announced by Facebook CEO Mark Zuckerberg on the company's Whatsapp app on Thursday, the WeChat in China will now collect updates, along with more information on which networks are sharing news feeds.
+Though, when users set up an account with a verified account, they will be automatically flagged for surveillance by Facebook. The same goes for use by other users in China, though Facebook has not confirmed when the update will roll out.
+Facebook criticized the new Facebook system as a setup that is open to hackers or bots, which it claims is a violation of the Chinese cyberspace norm — or “hacktivism” — as well as one of the true and potentially criminal activities hackers face every day.
+While the updates are already available to everyone through the WeChat service, the aforementioned Chinese update is a full and complete list of required information, according to a Facebook spokesperson.
+According to The Verge, the update will be available to all users and will cover the following topics:
+Facebook has a tool for identifying users with verified accounts, and it also provides reviews for suspicious behaviours, including abusive users.
+"For breaking news, we reviewed the story of a young girl who went missing after her boyfriend set his daughter’s mobile phone down over the fire at Facebook. We also rated and reviewed content that included hateful and abusive accounts. This was the first time any stories our team has seen took place on Facebook,” a Facebook spokesperson wrote.
+"At every turn, the stories we saw were never labeled as malicious and allowed us to track them down," the spokesperson added.
+WeChat will further beef up its coverage in a statement, too. Facebook is "actively trying to improve how we gather news" and has said it is working to "provide more timely, reliable information to the millions of people who use its service each day."
+The tech giants together have a wide-ranging claim, however. Facebook's part of the battle revolves around developers, and Facebook is not the only one fighting the kind of propaganda that has become extremely cheap, especially in China.
+Several studies have shown that user generated information isn't as important as the truth. If ever news stories need an explanation as easily as the one Facebook used on Thursday, it has always been with that content; so it's surprising that an average user is more likely to receive them from Facebook in the first place.
+Mashable has contacted Facebook for comment on the changes.
+Previously: Two Facebook trolls are arrested for denigrating a politician in China

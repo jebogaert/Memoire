@@ -1,0 +1,22 @@
+Title : Microsoft launches Calendar Apps in Outlook for iOS and Android as Sunrise approaches its end
+
+Original :
+Despite the rise of digital calendars, keeping track of what’s happening in a day can be tough. There’s your to-do list, your Facebook events and meetings scheduled by email, let alone your personal calendar.
+With the latest update to its Outlook apps for iOS and Android, Microsoft is gathering data from all those sources to give you a full picture of your day in one spot. The new “Calendar Apps” let users sync events and reminders to the Outlook calendar, integrating functions from Sunrise, which Microsoft acquired last year.
+At launch, users can add events from Facebook and reminders from Evernote and Wunderlist (another Microsoft acquisition) to their calendars.
+With the Facebook integration, invites from friends show up alongside other events so users can easily check availability. Users can even accept or decline straight from the Outlook app.
+Evernote notes with reminders also show up on your calendar. Users can see the first few lines of a note from within the Outlook app to see what that reminder was about, and can tap it to be taken to the note for more info.
+Wunderlist’s integration is the most straightforward, putting todos with due dates on the calendar. While you can easily jump to the app from Outlook, you can’t check it off without diving into Wunderlist. Since Microsoft owns the todo list app, the extra step to clear the item seems like a strange omission.
+Calendar Apps come as Microsoft prepares to discontinue Sunrise, rolling its features into the main Outlook app.
+Microsoft will expand the selection of Calendar Apps, with Skype and OneNote integrations in the works. The company is also looking for suggestions. Users can request other integrations by going to the Help & Support section of the Setting screen in the app to suggest a new Calendar App.
+
+Generated :
+Microsoft's calendar apps are becoming more popular in recent months, and a new extension to the apps, Windows Calendar, is already available to update it and remain valid for updated releases.
+The Microsoft software will now let you stay updated on the latest messages and calendar entries from an app that you're using for more than two minutes in an app, according to the company. The feature is located at Settings, and contacts and calendars can be added to the list depending on where they were created.
+Image: Penny Hearn/Wired
+Image: Penny Hearn/Wired
+Users can also start using the Calendar app in an app directly from their Windows PC if they type something in an inbox and the user sends the file to a friend or family member. An update will also come in an update or at the developers' recommendation, meaning they will be happy with the latest app.
+The Microsoft Calendar app is currently available on Windows 10 and Windows Phone, but Windows 10 Pro users have no access to the new Calendar app for their device.
+The new Window Calendar app is made possible by Microsoft's new partnership with calendar applications giant Google. It is often used by Microsoft's MSDN and Softlix partners as well as in Office 365, as part of its new Office 365 service.
+Image: Penny Hearn/Wired
+Microsoft's first calendar app was available in June, but it's not known at what point it launched the app for Windows PCs. The new Windows Calendar app is available to download from Microsoft's Play Store and its app store, which is also available on iOS and Android.

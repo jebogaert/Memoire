@@ -1,0 +1,151 @@
+Q4 growth means Canada avoided recession in 2001 ,, 02-28-2002
+
+The Canadian economy grew by 0.5 per cent over the final three months of 2001 meaning the country avoided a recession last year.
+"This was the strongest quarterly growth in five quarters, but the weakest annual growth since 1992," Statistics Canada reported Thursday.
+For all of 2001, the economy grew by 1.5 per cent, which was "less than half its pace in each of the previous four years," Statistics Canada said.
+"Consumers tightened their purse strings and businesses put the brakes on investment outlays," the federal government agency said.
+The positive growth in the fourth quarter meant Canada missed slipping into a recession at least by the common definition of two consecutive quarters of economic contraction. In the third quarter, Canada's economy shrank by 0.1 per cent.
+Statistics Canada said consumer spending rebounded in the fourth quarter, due mainly to incentive-driven purchases of new motor vehicles.
+Unseasonably mild weather and a sharp drop in mortgage rates also brought renewed strength in new housing construction and sales.
+With the economic situation improving, economists don't see the Bank of Canada changing interest rates anytime soon.
+"Q4 GDP was firmer than anyone thought possible just a few months ago, and 2002's outlook is improving. Still, the BoC will be in no rush to tighten with nominal GDP falling," BMO Nesbitt Burns chief economist Sherry Cooper said in a release.
+TD Bank senior economist Marc Levesque said Canada's economy will continue to grow in the first half of this year, but at a much-reduced rate.
+"While today's reports suggests that any talk of recession on this side of the border can now be safely discarded, the Canadian economy is unlikely to come out swinging until the second half of the year," he said.
+
+
+CANADA'S NATIONAL UNDER-18 SUMMER ROSTER NAMED FOR THE 2004 U-18 JUNIOR WORLD CUP IN PIESTANY, SLOVAKIA ,, 08-06-2004
+
+CALGARY, ALBERTA – On Friday, Hockey Canada, along with the Canadian Hockey League, named the 22 players that will form Canada’s National Under-18 Team for the Under-18 Junior World Cup in Slovakia, August 10-15, 2004.
+Canada will be pursuing its 8th international Under-18 Junior World Cup gold medal having captured gold at seven of the previous eight events that have been held each year in the month of August.
+The naming of the 22 player roster comes after a week-long development camp held in Calgary, AB which saw 40 of Canada’s top under-18 players vying for a spot on Team Canada. Hockey Canada’s Head Scout, Blair Mackasey conducted evaluations throughout the week, along with Head Coach Dave Cameron (Toronto St.Michael’s, OHL) and assistants Shawn Camp (Sarnia, OHL) and Benoit Groulx (Gatineau, QMJHL).
+"As a coaching staff, we are extremely pleased with the intensity and caliber of the players we had at this camp," said Cameron. "This group of young men that we have chosen, will be an excellent representation for our country at the Junior World Cup. We feel confident that this team will be focused on its quest for a gold medal.”
+Canada’s Under-18 program and the Summer Development Camp are part of Hockey Canada’s Program of Excellence beginning with the regional Under-17 teams and ending with the National Junior Team. The primary objectives of the Under-18 program are to identify, evaluate and condition players to the rigors of international competition by giving them their first exposure to international hockey and travel. Many of these Under-18 players will move on to play with Canada’s National Junior team, and many will be high NHL draft picks in 2005.
+Eighteen players were released from Canada’s Under-18 Development Camp on Thursday morning.
+These released players will continue to be evaluated and monitored along with other Under-18 Canadian players for possible future involvement in the Program of Excellence. This could come as early as the 2005 IIHF World Under-18 Championship on April 14-24, 2005 in Ceske Budejovice and Plzen, Czech Republic.
+
+
+A political sensation in Canada ,, 06-19-2005
+
+No. It's the political Play of the Week.
+It's like a film noir. Betrayal. Dangerous liaisons. In an exotic and alluring locale -- Canada?
+The femme fatale? Belinda Stronach, heiress to an auto parts fortune.
+In 2003, Fortune Magazine ranked Stronach the second most powerful woman in international business.
+She's also a good friend of Bill Clinton's, something that has not escaped the attention of the tabloids.
+This week, Stronach made a move that shocked the normally staid world of Canadian politics.
+Canada's government, headed by Liberal Party Prime Minister Paul Martin, is immersed in scandal. This week, he faced a showdown vote in parliament aimed at bringing his government down. It was excruciatingly close.
+Then on Tuesday, Stronach, a Conservative legislator, made her move.
+"I am very pleased to announce that Miss Stronach will cross the floor and has agreed to join the Cabinet," the prime minister said.
+Stronach switched parties! It would be like House Republican leader Tom DeLay becoming a Democrat.
+There was a complicating factor. Her relationship with the deputy leader of the Conservative Party.
+"At the center of this drama is a very, very personal matter, which is her relationship with Peter MacKay," Margaret Wente of the Globe and Mail said. "And she dumped him. She dumped the party and she dumped him simultaneously."
+MacKay was surprised by her move. "I just didn't see it coming," he said.
+And he was devastated: "My heart's a little banged up, but that'll heal."
+Stronach drew harsh criticism.
+"I think she sort of defined herself as a dipstick -- an attractive one, but still a dipstick," former Cabinet Minister Bob Runciman said.
+"It's a little rich girl who is basically whoring herself to the Liberals," Conservative legislator Tony Abbott said.
+Talk about going over the line.
+"Being called a whore, being called a dipstick, is quite different than being told that one has fashionable shoes," one female lawmaker said.
+What about the government? Did it survive?
+Yes, by one vote.
+"They say politics is boring, but not anymore," one Canadian observed. "It's more like soap opera now."
+And more like the political Play of the Week.
+Canada has been moving away from the United States on policies. Like same-sex marriage. And marijuana. And Iraq.
+But Canada's politics are beginning to look more and more American.
+
+
+TD Canada Trust deploys SQL Server 2005 ,, 11-17-2005
+
+While Microsoft Corp’s SQL Server 2005 was officially launched over a week ago, TD Canada Trust reports that it is already using the database tool to streamline its report-generation processes.
+According to Lawrence Engel, associate vice-president, risk strategy development and risk retail management for the Toronto-based financial institution, TD Canada was one of the beta testers for SQL Server 2005.
+Released last week, the feature set of SQL Server 2005 includes embedded reporting and data analysis tools, and an integrated data management and analysis platform. These features are designed to help enterprises run business applications and handle vital information.
+Microsoft appears to be targeting enterprise-class users with this latest release – which features capabilities such as database partitioning, parallel index creation, 64-bit processor support and, by the middle of next year, database mirroring.
+TD Canada Trust – which has moved to a 64-bit computing environment – is taking advantage of some of these new features.
+The bank used to consolidate information from a variety of disparate sources, and this often required IT staff to manually input data into Excel spreadsheets for analysis. The bank’s retail risk analysts were spending a great deal of time generating data reports, Engel said.
+He said TD Canada Trust needed a better method to coordinate more than 50 types of reports generated for its executives and credit centres nationwide.
+The choice of SQL Server 2005 is in line with the bank’s move to a 64-bit computing environment, Engel said, adding that the shift increases the firm’s overall computing capability. “We needed a solution that would allow us to basically cut through a significant amount of information over a very [short] period of time, and [offer us] the flexibility to engineer this sort of infrastructure ourselves given the resources of our department.”
+The current setup, he said, was developed over a four-month period. The new environment features OLAP functionality, runs on a HP (ProLiant DL585 Opteron) hardware platform, handles 30GB of data each month.
+The impact on the IT team has been around better productivity and reduced costs, Engel added. “We’ve been able to reallocate resources to other departments to more important tasks and have pushed the whole notion of drill down capabilities into our business partner’s hands, alleviating a lot of ad hoc requests.”
+Last week, Microsoft CEO Steve Ballmer said SQL Server 2005 should eliminate any “last bit of hesitancy” that enterprise users may have about the database’s ability to scale.
+Microsoft has long been a major force within the low-end Windows database market. According to Stamford, Conn.-based IT research firm Gartner Inc., the company controlled exactly half of that part of the market last year. But Microsoft’s share of the overall database market was about 20 per cent. The Redmond, Wash.-based software giant hopes to use SQL Server 2005 to chip away at the high-end strongholds of Oracle Corp.’s 10g database and IBM Corp.’s DB2.
+According to one industry insider, the SQL server upgrades are long overdue, and something end users have long waited for.
+SQL Server 2005 represents the first upgrade of the database software in five years, said Warren Shiau, an IT analyst with Toronto-based research firm, The Strategic Counsel.
+Shiau also noted the ISV population is perhaps more aligned with Microsoft than rival database vendors. A recent report from the firm (sponsored by Microsoft) claims that 77 per cent of ISVs believe SQL Server 2005 is the most critical enterprise database platform for supporting future growth.
+But Oracle Canada’s David Rumer countered that claim. Noting that the study was paid for by Microsoft, he said the current release of SQL 2005 still lags behind Oracle’s 10g database in terms of functionality.
+The senior director of marketing for the Mississauga, Ont.-based firm said the fact that it’s taken Microsoft five years to release the database upgrade is evidence of that. “If you’re working with SQL 2005, you’ve got a lot of limitations in the choices you can make. You’re locked into Windows, you’re locked into a specific development environment …we’ve gone with open standards allowing customers to work on Windows as well as Linux.”
+TD Canada Trust initially looked at other database offerings, but ultimately decided that SQL Server 2005 was a more cost-effective solution for the bank, and one that could handle the firm’s high-end IT environment, Engel said.
+
+
+"Flying bear" kills 2 Canadians in freak crash ,, 06-09-2011
+
+A “flying bear” killed two Canadians instantly when a freak car accident propelled the black bear through the front windshield of a second vehicle.
+A car slammed into the black bear at night on a rural Quebec highway about 25 miles north of Ottawa, the Canadian capital, local police told the Canadian Broadcasting Corporation.
+The 440-pound bear was thrown into the air and hit a SUV traveling in the opposite direction, smashing through the SUV’s front windshield and then out the back window.
+The driver of the SUV, a 25-year-old Ottawa woman, was pronounced dead at the scene, as was a 40-year-old passenger sitting behind her. But the driver’s boyfriend, sitting in the front passenger seat, escaped with only minor injuries.
+The two occupants of the first car that hit the bear were not hurt. The bear was killed on impact.
+Police said that the car, a Pontiac Sunfire, was lower to the ground than the SUV and had a more aerodynamic design, and may have propelled the male bear up into the air and into the other lane, the CBC reports.
+While deer and moose are regularly seen on roads in rural Canada, and collisions with cars are relatively common, it is unusual for bears to wander onto a highway.
+"Obviously, it's something really rare," local police spokesman Martin Fournel said. "We don't see that often, even if we live in the country. Lots of deer, but collisions with a bear and two people died? That's really rare."
+A local hunting guide told the CBC that it is bear mating season, and warned drivers to be careful because the males go roaming outside their territory to look for female bears in heat.
+
+
+Canada becomes world-leader in tobacco plain packaging ,, 07-25-2018
+
+
+
+
+GURUFEST - TORONTO'S KOSHER EVENT OF THE YEAR ,, 06-07-2018
+
+Shlomo Assayag, Toronto’s kosher guru, hosted Gurufest to benefit Chai Lifeline Canada on May 1. Attendees experienced a chopped cook-off right before their eyes, hosted by food media personality Naomi Nachman.
+“Three hundred and seventy people came out and enjoyed a night full of delicious food from 23 of the top caterers and restaurants in the city,” Assayag said. “They all were asked to display new products that are not usually on their regular menus. There were beer, scotch, wine, and soda tables.”
+Joan Manfaredi, former chef at the Park Hyatt, has now partnered with two of her colleagues, forming an upscale catering company, TWO13 Kosher Food Design Inc. Their tasting menu featured a scrumptious sample plate composed of chicken tagine with seven-vegetable couscous, Moroccan carrot salad, tomato cucumber salad, and chickpea salad with toasted cumin vinaigrette and roasted pepper.
+DANI Catering, part of the DANI Family, which creates opportunities for adults with physical and/or cognitive challenges, served up samples of their scrumptious hot apple blintzes with a crumble topping. Ellen Jane Desserts provided tastings of their addictive halvah brownies, lemon tarts, and lime tarts.
+Cookbook author Daniella Silver, one of the celebrity judges of the Kosher Chopped competition loved the winning entry by Rivki Rabinowitz.  “The contestants were given a mystery basket of ingredients, which included chicken breasts and marshmallow fluff (Rivki used it in the salad dressing, providing a sweet note). She brushed the serving plate with chocolate pudding for eye-appeal, rather than using it as an actual ingredient.”
+Another judge, cookbook author Amy Stopnicki was also one of the celebrity judges. “Rivki Rabinowitz, did a great job repurposing her ingredients—her food was tasty and well plated! All of the competitors did a great job. The other competitors were Jodi Weisleder and Netanel Munk.”
+Erica Machtinger, one of those who attended,  shared a few of her favourite dishes: “My favourites included Bubby’s Bagels with their assortment of flavoured dips and crunchy, yummy crackers to dip into the different dips. Kosher Dudes served mini chicken tacos that were very yummy. Another thing that stood out was from Applause Catering, who served crispy poke mini bowls made from wonton wraps. Also, their chocolates were to-die-for! They were rich and very scrumptious,” she said.
+“Another favourite was Shanghai noodles with beef from Ba-Li-Laffa, which was right up my alley. I loved the beef—it was so tender. Also, the thick noodles are my favourite type of Chinese noodle. I also loved TWO13 Kosher’s Moroccan dish, made with chicken, quinoa, and vegetables.”
+READ: THE SHABBAT TABLE: PICTURE-PERFECT FOOD!
+Marla Young, another attendees was surprised by all the beautifully prepared and presented kosher gourmet food.  “Having had no idea what GuruFest was, I was more than pleasantly surprised by a wonderful evening. It was a perfect example of the community coming together to support Chai Lifeline, while eating, laughing, and learning…what could be better than that?”
+It was exciting to see so many innovative kosher food options available to the Toronto community. The future of Toronto’s food scene is exploding!
+
+
+Toronto mayor Rob Ford more popular since crack cocaine admission ,, 11-22-2013
+
+Embattled Toronto mayor Rob Ford has increased his popularity since admitting he smoked crack cocaine, a survey has revealed.
+A poll of 1,049 voters showed 42% approve of the job Ford has been doing as mayor. That compares with 44% in a similar poll a fortnight ago and a hike on the 39% he was given in late October, before he made the admission.
+This week Toronto city council voted to transfer Ford’s budget and many of his powers to the deputy mayor.
+Ford said he would fight the vote, calling it a “coup d’etat”.
+Local media reported in May they had seen footage apparently showing Ford smoking crack cocaine.
+Ford initially denied the allegations. Then in November, after police said they were in possession of the drug video, he admitted smoking crack cocaine “in a drunken stupor”.
+A second video then emerged showing Ford making threats to kill an unknown person.
+He then apologised for obscene comments made on live television while he was denying allegations he had offered oral sex to a female staff member.
+While Ford’s core supporters remain loyal, the poll also showed a strong majority of Torontonians believe he is not fit for office, with 60% saying he should resign. Meanwhile 69% said they believe the mayor has a substance abuse problem, which Ford denies.
+Visit our special dossier about drugs in Europe
+
+
+Your Morning, A Bold New CTV Brand For Retired Canada AM ,, 06-06-2016
+
+CTV reaffirmed its commitment to original daytime television with the announcement today of a new daily morning magazine-style show replacing Canada AM.
+The live, three-hour program Your Morning will premiere at the end of the summer. The network also reports that former CBC Toronto News at 6pm co-anchor Anne-Marie Mediwake and ETalk's Ben Mulroney will anchor the series.
+Following a magazine format, a news release says the new series will offer original perspectives and unique insights into the stories of the day, while showcasing lifestyle topics of interests to Canadians from coast-to-coast-to-coast. News on the program will be delivered by CTV News.
+Your Morning will air weekday mornings on CTV (Ontario, Québec, and Eastern Canada)and nationally on CTV News Channel from 6-9 a.m., kicking off CTV’s leading original daytime lineup.
+To be broadcast from Bell Media’s downtown broadcast centre at 299 Queen St. West in Toronto, the series comes from the same production team as the top two Canadian daytime series, The Marilyn Denis Show and The Social, and will be helmed by the same executive producer, Michelle Crespi.
+“CTV is investing in a new style of morning television,” said Randy Lennox, President, Entertainment Production and Broadcasting, Bell Media. “We believe we can serve viewers and advertisers alike with a wonderful group of captivating personalities to start the day. We can’t wait to get started with Your Morning.”
+“Our viewers already wake up with news and information available at their fingertips,” said Nanci MacLean, Vice-President, Bell Media Production. “With that in mind, the purpose of Your Morning is to add context, perspective, and personality in a format designed for today’s viewers.”
+Joining hosts Mediwake and Mulroney are co-anchors Melissa Grelo (The Social) as Late Morning Anchor, Lindsey Deluce (CP24 Breakfast) as News Anchor, and Kelsey McEwen (CTV Morning Live Calgary) as Weather Anchor.
+CTV will introduce a member of the new morning show team every day this week as guest hosts on The Social.
+In addition to their roles on the CTV AM show, Mulroney will continue as anchor of ETalk, and Grelo will continue as co-host on The Social. Deluce and McEwen will continue their current roles with CP24and CTV Morning Live Calgary respectively through the end of June.
+
+
+Canada woman jailed for smuggling $16m of cocaine into Australia ,, 11-03-2017
+
+A Canadian woman who pleaded guilty to smuggling cocaine into Australia has been jailed for seven and a half years.
+Isabelle Lagacé, 29, of Quebec, was facing a life sentence. Two other Canadians have also been charged.
+Australian police dogs discovered C$20m ($16m; £12m) of cocaine in their cabins after the cruise ship they were on docked in Sydney on 29 August 2016.
+Lagacé's cabin mate, Melina Roberge, 22, claims she did not know about the drugs and is also facing trial.
+Police found 35 kg (77 lbs) of cocaine in a suitcase in the cabin shared by Ms Roberge and Lagacé. They found an additional 60 kg in the room of Andre Tamine, a 63-year-old from Quebec.
+It is not known if or how the girls knew him. Mr Tamine has pleaded not guilty and is also on trial.
+According to Australian Border Force commander Tim Fitzgerald, the bust was the largest drug seizure Australia has ever had on a boat or plane.
+Picture of the cocaine found in the trio's suitcase
+Lagacé told the court on Friday that her "error in judgment" would haunt her for the rest of her life, the Australian broadcaster 9News reported.
+"It pains me to know my defining moments of womanhood will be spent in prison halfway around the world," she said.
+The women from Quebec had boarded the luxury cruise ship MS Sea Princess in Southampton, England, two months earlier, and regularly posted photos of their travels on social media.

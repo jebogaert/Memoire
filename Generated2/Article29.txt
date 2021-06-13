@@ -1,0 +1,20 @@
+Title : After burning Microsoft, Google leaves Android vulnerability unpatched
+
+Original :
+Google threw Microsoft under the bus this weekend by disclosing a security flaw in Windows that the Redmond company wasn’t going to patch until today, after it passed the Mountain View-based company’s self imposed 90-day waiting period for disclosing such bugs. Microsoft blasted back at Google, saying that its rivals should have waited for the company’s Patch Tuesday release before disclosing the bug.
+As it turns out, Google is in its own security pickle. Security researcher Tod Beardsley found a bug in Android WebView 4.3 – the part of Android that’s used to display web pages on devices running version 4.3 of Google’s mobile operating system. After disclosing it to Google, he was told that the company won’t be developing patches for WebView bugs that only affect versions of Android below 4.4, also known as “KitKat.”
+That’s a problem, since the vast majority of Android devices are running an older version of the company’s OS, which could leave them vulnerable to any flaws that get found in the future. It’s possible for Android OEMs to create their own patches for this and other exploits, since Android is open source. And Google told Beardsley that it will consider patches submitted to the Android Open Source Project, or AOSP.
+This policy is a move by Google that may force manufacturers to put old devices on newer versions of Android. Even when the company releases a software update, it first has to be implemented by manufacturers on their devices, and approved by carriers for use on their network. In practice, that means it can take a while before phones get updated to major new releases.
+By refusing to issue security patches for older versions, the company puts a lot of users at risk – almost 1 billion, according to some estimates – but could force manufacturers to take the burden of patching security holes or updating their phones in order to maintain user security.
+
+Generated :
+Google and Microsoft have patched their two respective Android operating systems in a massive outage, bringing more relief to numerous people without a connection.
+Microsoft said earlier today that it had patched its software for Android and Windows computers and that the patches are available to all companies that have a connection to a different operating system. Google added that it is now running a patch with a minor impact on Windows computers.
+Microsoft has yet to publicly discuss the availability of a fix. This is the second major incident involving Google services that the company has gone through in a few weeks.
+To learn more about Google’s plan to fix the vulnerability, check out the Straight Talk blog report on YouTube.
+Google says, however, that it is "targeting a slow-down" Windows vulnerabilities and only cares about the security of the company’s 64-bit processors. Google claims that three critical Android vulnerabilities are imminent — one that has potential for huge security vulnerabilities to influence malware protection — and that it would go from patching only to patching all four vulnerabilities simultaneously in just two weeks.
+Here's the FAQ on Android security
+Google has focused not on the quick fixes offered by Microsoft and Facebook, but instead on the ongoing need to take down rootkit and bypass more security holes. Because it can take a few steps, Google isn’t stuck.
+The company’s stated goal is "to power the fast, simple attacks and browsers that rely on Android. It will be a matter of real trust." It is "reaching out to all partners to leverage the momentum we have created to restore vital functionality."
+If you already have a mobile device or update to Android, it is a matter of getting past the security patch, or just slowing down the Windows updates. There are plenty of security holes in Android, and it is easy to miss if you rely on it.
+Read next: Zune 2 arrives on both your iPhone and Android today
