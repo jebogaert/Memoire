@@ -1,6 +1,6 @@
 # Memoire
 
-This is the git corresponding to Jeremie Bogaert's master thesis. Some of the appendix, judge as useful but too big to be included in the submission are included here. You can find: 
+This is the git corresponding to Jeremie Bogaert's master thesis. Some of the appendix, judged as useful but too big to be included in the submission are included here. You can find: 
 
 1)The LDA html file that helps to find the different topics	
 
@@ -9,3 +9,5 @@ This is the git corresponding to Jeremie Bogaert's master thesis. Some of the ap
 3)The url used to collect the news in urlCategory3.txt and urlCategory4.txt
 
 4)The database used during the automated evaluation. The original text are in the databaseNorig.txt, while the generated ones are in the databaseNgen.jsonl. N is the category number, between 1 and 4.
+
+If the participants to the human experiment allow me to share their answers here, it will also be done. 
